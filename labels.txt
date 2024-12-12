@@ -1,0 +1,13 @@
+0 cardboard
+1 glass
+2 metal
+3 paper
+4 plastic
+5 trash
+6 cables
+7 bag
+8 bottle
+9 helmet
+10 mobile
+11 shoes
+12 key
